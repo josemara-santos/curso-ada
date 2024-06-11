@@ -1,3 +1,4 @@
-#curso digital: Git/versionamento
+# curso-ada: Git/versionamento
 
-#Salvando mmodificações no Git
+## Salvando mmodificações no Git
+* comando git push
